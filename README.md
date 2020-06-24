@@ -7,7 +7,8 @@
         (https://en.wikipedia.org/wiki/Supervised_learning)
        
   2. Unsupervised Learning
-     : [위키피디아 해석] 기존 라벨이 없고 사람의 관여가 최소화된 상태에서, 데이터셋에서 이전에 찾지 못했던 패턴을 찾는 Machine Learning
+     : [위키피디아 해석] 기존 라벨이 없고 사람의 관여가 최소화된 상태에서, <br> 
+                        데이터셋에서 이전에 찾지 못했던 패턴을 찾는 Machine Learning  <br>
         (https://en.wikipedia.org/wiki/Unsupervised_learning)
      
   3. Semi-supervised Learning
