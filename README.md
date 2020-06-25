@@ -36,4 +36,43 @@
      : 강화학습은 결과값(정답)대신 어떤 일을 잘 했을 때 보상(reward) 를 주는 방법으로 학습을 시킨다.   <br>
      : 현재 상태에서 어떤 행동을 취하는 것이 최적인지를 학습한다.   <br>
      : 행동을 취할 때마다 보상(reward)이 주어지는데, 이 보상을 최대화하는 방향으로 학습이 진행된다.   <br>
-     
+
+
+## Machine Learning Tasks
+
+### 1. Classification
+
+        새로운 데이터에 대해서, 알려진 category 를 식별하는 문제의 타입
+        
+        Classification is the problem of identifying to which of categories a new observation belongs,  
+                       on the basis of a training set of data containing observations whose category is known.
+
+### 2. Segmentation
+
+
+### 3. Regression
+
+        연속된 값에 대해서 예측하는 문제의 타입
+
+        Regression is a type of problem where we need to predict and forcast for the continuous-response values.
+
+
+### 4. Clustering
+
+        유사한 것들끼리 grouping 하는 비지도 학습 문제의 타입
+
+        Clustering is a type of unsupervised learning problem where we group similar things together.
+
+### 5. Association
+
+        데이터의 많은 부분을 설명하는 정확한 규칙을 발견하는 문제의 타입
+
+        An Association rule is where you would be discovering the exact rules that will describe the large portions of your data.
+
+
+### 6. Image to Image Translation
+
+
+### 7. Anomaly Detection
+
+
