@@ -1,7 +1,7 @@
 # Data_Science_Repository
 데이터사이언스 자료 글
 
-## AI / Machine Learning / Deep Learning [AI_ML_DL](AI_ML_DL.ppt)
+## AI / Machine Learning / Deep Learning    [AI_ML_DL](https://github.com/edwardcho/Data_Science_Repository/blob/master/AI_ML_DL.pptx)
      : 인공지능은 사람의 지능을 모방하여, 사람이 하는 것과 같이 복잡한 일을 할 수 있는 기계를 만드는 것.
      : 인공지능이 가장 넓은 개념이고, 인공지능을 구현하는 방법 중 중요한 방법이 머신러닝 (기계학습) 이다.
      : 딥러닝은 머신러닝의 여러방법 중 중요한 방법론이고, 인공신경망을 사용한다.
@@ -14,6 +14,7 @@
      : 머신러닝은 "컴퓨터가 명시적으로 프로그램 되지 않고도 학습할 수 있도록 하는 연구분야" 이다.
      
      : 딥러닝은 인간의 뇌 신경망을 모방한 인공신경망의 한 종류이다.
+   
 
 ## Machine Learning Category...
   1. Supervised Learning
