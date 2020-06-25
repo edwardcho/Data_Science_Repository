@@ -42,33 +42,37 @@
 
 ### 1. Classification
 
-        새로운 데이터에 대해서, 알려진 category 를 식별하는 문제의 타입
-        
         Classification is the problem of identifying to which of categories a new observation belongs,  
                        on the basis of a training set of data containing observations whose category is known.
 
+        새로운 데이터에 대해서, 알려진 category 를 식별하는 문제의 타입 / Supervised Learning
+        (feature vectors or image) 에 대해서 category 식별
+
+
 ### 2. Segmentation
 
+        새로운 데이터에 대해서, 알려진 category 를 식별하는 문제의 타입 / Supervised Learning
+        (image) 에 대해서 pixel별 or object별 category 식별
 
 ### 3. Regression
 
-        연속된 값에 대해서 예측하는 문제의 타입
-
         Regression is a type of problem where we need to predict and forcast for the continuous-response values.
 
+        연속된 값에 대해서 예측하는 문제의 타입  / Supervised Learning
+        feature vectors 에 대해서 예측
 
 ### 4. Clustering
 
-        유사한 것들끼리 grouping 하는 비지도 학습 문제의 타입
-
         Clustering is a type of unsupervised learning problem where we group similar things together.
+
+        유사한 것들끼리 grouping 하는 비지도 학습 문제의 타입 / Unsupervised Learning
+        feature vector(s) list 에 대해서 clustering 
 
 ### 5. Association
 
-        데이터의 많은 부분을 설명하는 정확한 규칙을 발견하는 문제의 타입
-
         An Association rule is where you would be discovering the exact rules that will describe the large portions of your data.
 
+        데이터의 많은 부분을 설명하는 정확한 규칙을 발견하는 문제의 타입 / Unsupervised Learning
 
 ### 6. Image to Image Translation
 
