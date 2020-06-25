@@ -21,20 +21,19 @@
      : [위키피디아 해석] 하나의 입력에서 하나의 출력으로의 맵 function 을 학습하는 machine learning  <br>
         (https://en.wikipedia.org/wiki/Supervised_learning)   <br>
        
-  2. Unsupervised Learning
+  2. Unsupervised Learning   <br>
      : [위키피디아 해석] 기존 라벨이 없고 사람의 관여가 최소화된 상태에서, <br> 
                         데이터셋에서 이전에 찾지 못했던 패턴을 찾는 Machine Learning  <br>
         (https://en.wikipedia.org/wiki/Unsupervised_learning)   <br>
      
-  3. Semi-supervised Learning
+  3. Semi-supervised Learning   <br>
      : [위키피디아 해석] 소수의 라벨된 데이터와 많은 수의 라벨되지 않은 데이터의 조합의 Machine Learning 접근 방법   <br>
         (https://en.wikipedia.org/wiki/Semi-supervised_learning)   <br>
      : 소수의 라벨된 데이터(A)로 training 하고,  이를 바탕으로 라벨되지 않은 데이터(B)의 label 을 predict 한다.   <br>
      : 전체 데이터(A + B)를 정제한 후 retrain 한다.   <br>
 
-  [참고]   <br>
-  Reinforcement Learning (강화학습)   <br>
-       강화학습은 결과값(정답)대신 어떤 일을 잘 했을 때 보상(reward) 를 주는 방법으로 학습을 시킨다.   <br>
-       현재 상태에서 어떤 행동을 취하는 것이 최적인지를 학습한다.   <br>
-       행동을 취할 때마다 보상(reward)이 주어지는데, 이 보상을 최대화하는 방향으로 학습이 진행된다.   <br>
+  [참고] Reinforcement Learning (강화학습)   <br>
+     : 강화학습은 결과값(정답)대신 어떤 일을 잘 했을 때 보상(reward) 를 주는 방법으로 학습을 시킨다.   <br>
+     : 현재 상태에서 어떤 행동을 취하는 것이 최적인지를 학습한다.   <br>
+     : 행동을 취할 때마다 보상(reward)이 주어지는데, 이 보상을 최대화하는 방향으로 학습이 진행된다.   <br>
      
