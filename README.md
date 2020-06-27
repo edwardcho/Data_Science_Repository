@@ -66,6 +66,8 @@
         유사한 것들끼리 grouping 하는 비지도 학습 문제의 타입 / Unsupervised Learning
         feature vector(s) list 에 대해서 clustering 
 
+        [Clustering](https://github.com/edwardcho/Data_Science_Repository/blob/master/Clustering.md)
+
 ### 5. Association
 
         An Association rule is where you would be discovering the exact rules that will describe the large portions of your data.
