@@ -51,8 +51,6 @@
 
 ### 2. Segmentation
 
-        새로운 데이터에 대해서, 알려진 category 를 식별하는 문제의 타입 / Supervised Learning
-        (image) 에 대해서 pixel별 or object별 category 식별
 
 ### 3. Regression
 
