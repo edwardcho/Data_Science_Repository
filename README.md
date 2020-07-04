@@ -79,4 +79,7 @@
 
 ### 7. Anomaly Detection
 
+        정상 데이터와 비정상 데이터를 구별해 내는 문제. (Supervised / Unsupervised / ..)
+
+  [Anomaly_Detection details..](https://github.com/edwardcho/Data_Science_Repository/blob/master/Anomaly_Detection.md)
 
