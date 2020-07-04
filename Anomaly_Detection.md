@@ -36,9 +36,9 @@ Anomaly Detection : Normal sample 과 Abnormal sample 을 구별해 내는 문�
      
 2. Normal Sample : 여러 Class
  
-   (normal sample : 단일 class)    ===>   (normal sample : 여러 class)  <br>
-         Normal sample                      In-distribution sample        <br>
-         Abnormal sample                    Out-of-distribution sample     <br>
+       : (normal sample : 단일 class)    ===>   (normal sample : 여러 class)  <br>
+       :       Normal sample                      In-distribution sample        <br>
+       :      Abnormal sample                    Out-of-distribution sample     <br>
          
    Out-of-distribution Detection : In-distribution sample 로 training    <br>
                                    test 에서 out-of-distribution 검출     <br>
